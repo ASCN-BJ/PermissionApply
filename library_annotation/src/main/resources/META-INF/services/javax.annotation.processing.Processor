@@ -1,0 +1,5 @@
+Apply
+Denied
+Granted
+$ cat javax.annotation.processing.Processor
+com.bj.internal.PermissionProcessor
